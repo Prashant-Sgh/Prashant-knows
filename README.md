@@ -2,7 +2,7 @@
 - 👀 I’m interested in making life easier and more productive using tech 😉
 - 🌱 I’m currently learning frontend development 😊
 - 🤗 I'm interested in learning ANYTHING that interests me 
-- 💞️ I’m looking to collaborate on? .....
+- 💞️ I’m looking to collaborate on things that you think can interest me :).....
 - 📫 How to reach me? - DROP A MESSAGE
 
 <!---
